@@ -56,3 +56,10 @@ footer {
     color: white;
     margin-top: 20px;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Ronde hoeken */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Schaduw */
+}
